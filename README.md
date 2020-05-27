@@ -95,3 +95,20 @@ Week 7 Final Presentation Preparation
 Key Jesuit Values 
 
 This project will incorporate the mission of Contemplatives in Action. The student will display the philosophical thinking and take the action to address current social problems (Regis, 2020). 
+
+
+
+References
+Google Health. (2020, May 1). Google Community Mobility Reports. Retrieved May 10, 2020, from https://console.cloud.google.com/marketplace/details/bigquery-public-datasets/covid19_google_mobility
+
+JHU CSSE. (2020, May 8). COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. Retrieved May 10, 2020, from https://github.com/CSSEGISandData/COVID-19
+
+Regis University. (n.d.). Jesuit Education Values, Key Jesuit Values: Regis University. Retrieved May 10, 2020, from https://www.regis.edu/about/jesuit-education/key-jesuit-values
+
+Rogers, K. (2020, April 14). Why Did The World Shut Down For COVID-19 But Not Ebola, SARS Or Swine Flu? Retrieved May 10, 2020, from https://fivethirtyeight.com/features/why-did-the-world-shut-down-for-covid-19-but-not-ebola-sars-or-swine-flu/
+
+Sorace, S. (2020, April 21). Coronavirus shutdown: What states have seen protests against stay-at-home orders. Retrieved May 10, 2020, from https://www.foxnews.com/us/coronavirus-shutdown-what-states-have-protested-against-stay-at-home-orders
+
+SRK. (2020, May 10). COVID-19 in USA. Retrieved May 10, 2020, from https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+
+Weiss, Y. (2020, April 12). Let’s Visualize State-by-State Shutdown Effectiveness on COVID-19. Retrieved May 10, 2020, from https://medium.com/@yinonweiss/lets-visualize-state-by-state-shutdown-effectiveness-on-covid-19-e13a5cdb50ad
