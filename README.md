@@ -1,4 +1,4 @@
-# practicum1
+# COVID-19-Infection-and-Mobility
 Data Visualization
 COVID-19 Infection and Mobility
 
