@@ -99,6 +99,7 @@ This project will incorporate the mission of Contemplatives in Action. The stude
 
 
 References
+
 Google Health. (2020, May 1). Google Community Mobility Reports. Retrieved May 10, 2020, from https://console.cloud.google.com/marketplace/details/bigquery-public-datasets/covid19_google_mobility
 
 JHU CSSE. (2020, May 8). COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. Retrieved May 10, 2020, from https://github.com/CSSEGISandData/COVID-19
