@@ -1,0 +1,22 @@
+#First, install python libraries
+import numpy as np
+import pandas as pd
+
+#Import data for time_series_covid19_confirmed_global as df
+df = pd.read_csv("/Users/maraw/OneDrive/Documents/Regis Univ/DS Practicum I/time_series_covid19_confirmed_global.csv",
+                         keep_default_na=False, na_values=[""])
+
+#View original table
+df.head()
+
+#Here's where the magic happens
+#use melt package to convert and pivot the data table
+df = df.melt(id_vars=["Province/State", "Country/Region", "Lat", "Long"], 
+        var_name="Date", 
+        value_name="Value")
+        
+#View the new table 
+df.head()
+
+#As we are satisfied with the new result, let's save it as a new CSV file
+df.to_csv("/Users/maraw/OneDrive/Documents/Regis Univ/DS Practicum I/Global COVID19 Confirmed Cases.csv")
