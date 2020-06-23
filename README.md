@@ -1,5 +1,5 @@
 # COVID-19-Infection-and-Mobility
-Data Visualization
+Data Visualization and Machine Learning
 COVID-19 Infection and Mobility
 
 
@@ -12,10 +12,9 @@ Research Problem
 
 Back in 2019, China made an announcement to the world of the new virus outbreak in Hubei province followed by the city shutdown. The virus was called Coronavirus. Later, the World Health Organization named the new strain of the contagious virus as COVID-19, Corona Virus Disease of 2019. Many people in the US, at the time, felt that China was overreacting to this pathogen since the world had already battled through several global pandemics such as SARS, Ebola, and major flu outbreak within the past couple of decades (Rogers, 2020).
 
-In April 2020, US Governers in 43 out of 52 states have instituted quarantine restrictions in order to stop the spread of the virus. Thousands of Americans protested against the stay-at-home order that skyrocketed the unemployment rate in the US (Sorace, 2020). A business writer, Weiss (2020), stated that shutdowns cost the country trillions of dollars, and there is not much evidence that shutting down has had a significant impact on the total death of COVID-19. It raised the question “does the stay-at-home actually save lives?” 
+In April 2020, US Governers in 43 out of 52 states have instituted quarantine restrictions in order to stop the spread of the virus. Thousands of Americans protested against the stay-at-home order that skyrocketed the unemployment rate in the US (Sorace, 2020). A business writer, Weiss (2020), stated that shutdowns cost the country trillions of dollars, and there is not much evidence that shutting down has had a significant impact on the total death of COVID-19. 
 
-In other words, “does the shut-down order has a significant impact on the COVID-19 infection rate?” 
-
+It raised the questions “does the shutdown has a significant impact on the COVID-19 infection rate?”  and “when is the end of the COVID-19 epidemic in the US?“
 
 
 
